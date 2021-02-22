@@ -128,9 +128,17 @@ body {
   background-color: #f16059;
   height: 300px;
   width: 30%;
+  border-top: 2px solid white;
+  border-bottom:2px solid white;
 }
 span{
   font-weight: bold;
+}
+.div-1{
+  border-right: 2px solid white;
+}
+.div-2{
+  border-right: 2px solid white;
 }
 
 
