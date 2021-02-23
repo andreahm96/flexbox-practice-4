@@ -112,8 +112,15 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-flow: row wrap;
 }
-header,
+header{
+  width:100%;
+  display:flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
 footer,
 main {
   display: flex;
